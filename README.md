@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-
+# CodeClause_Stock-Market-Prediction-
 Stock Market Prediction Using Linear Regression
 
 For most stock investors, the favorite question is "How long should 
